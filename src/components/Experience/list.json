@@ -1,0 +1,21 @@
+{
+  "title": "monitor",
+  "lists": [
+    {
+      "date": "85%",
+      "company": "charging",
+      "role": "poc3"
+    },
+    {
+      "date": "20%",
+      "company": "charging",
+      "role": "poc2"
+    },
+    {
+      "date": "85%",
+      "company": "charging",
+      "role": "poc1"
+    }
+   
+  ]
+}

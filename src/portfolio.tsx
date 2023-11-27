@@ -144,6 +144,6 @@ export const blogs = {
 export const contactInfo = {
 	title: "Contact To Me! 📞",
 	subTitle: "xxx-xxxxx",
-	introduce: "bk.shon❤",
+	introduce: "admin",
 	view: true
 }

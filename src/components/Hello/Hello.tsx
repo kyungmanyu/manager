@@ -28,6 +28,8 @@ function Hello() {
 						<Social />
 					</div>
 					<div className="wrapper-links">
+						
+						<a href="http://192.168.0.46/myfiles/" target="_blank">binary&gt;</a>
 						<a href="#experience" id="experience">Monitor &gt;</a>
 						<a href="#contact" id="about">Contact &gt;</a>
 						{/* <a href={greeting.resumeLink} id="resume" target="_blank" rel="noopener noreferrer">View Resume &gt;</a> */}
